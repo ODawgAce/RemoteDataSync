@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: remotedatasync
+Version: 0.1.0
+Summary: Pakiet do pobierania i wystawiania danych z API
+Author: Oliver Wójcik
+Requires-Python: >=3.7
+Requires-Dist: flask
+Requires-Dist: requests
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

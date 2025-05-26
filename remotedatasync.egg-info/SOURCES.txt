@@ -1,0 +1,12 @@
+setup.py
+remotedatasync/__init__.py
+remotedatasync/api.py
+remotedatasync/fetcher.py
+remotedatasync/main.py
+remotedatasync/processor.py
+remotedatasync.egg-info/PKG-INFO
+remotedatasync.egg-info/SOURCES.txt
+remotedatasync.egg-info/dependency_links.txt
+remotedatasync.egg-info/entry_points.txt
+remotedatasync.egg-info/requires.txt
+remotedatasync.egg-info/top_level.txt
